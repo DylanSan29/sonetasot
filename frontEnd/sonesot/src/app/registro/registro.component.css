@@ -1,0 +1,58 @@
+.principal {
+    padding: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.registroConcluido {
+    float: left;
+    font-size: 30px;
+    color: rgb(15, 70, 181);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.cancelarCita {
+    background-color: red;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 17px;
+    float: right;
+    color: #ffffff;
+}
+
+.segundoContenedor{
+    margin-top: 100px;
+    padding: 30px;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1); 
+}
+.tercerContenedor {
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); 
+}
+
+.informacion,
+.segundaInformacion {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.date-time {
+    border-radius: 10px;
+    margin-left: 10px;
+    padding-right: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(28, 149, 201);
+}
